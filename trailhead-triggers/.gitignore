@@ -35,3 +35,6 @@ ehthumbs.db
 $RECYCLE.BIN/
 .idea/
 .profile
+IlluminatedCloud
+force-app/main/default/layouts/
+force-app/main/default/profiles
